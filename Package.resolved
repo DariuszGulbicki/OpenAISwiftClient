@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "colorizer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DariuszGulbicki/Colorizer",
+      "state" : {
+        "revision" : "8e9747fc55861a2969c721967f4a84b95ae5f716",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "logging-camp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DariuszGulbicki/Logging-Camp.git",
+      "state" : {
+        "revision" : "c80b86ecfde4c381996cd6476cc653358341741e",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DariuszGulbicki/SWAPI",
+      "state" : {
+        "revision" : "304d95628cc9ded4f4ddf1e98c715de8de01d691",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swifter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/httpswift/swifter.git",
+      "state" : {
+        "revision" : "9483a5d459b45c3ffd059f7b55f9638e268632fd",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "swiftyxmlparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yahoojapan/SwiftyXMLParser",
+      "state" : {
+        "revision" : "d7a1d23f04c86c1cd2e8f19247dd15d74e0ea8be",
+        "version" : "5.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
